@@ -35,4 +35,4 @@ L'application a pour but se récupérer une liste de d'albums depuis le json htt
 
 # Demo
 
-![Demo de l'application](/demo/demo_lbc01.mp4 "Demo de l'application")
+![Demo de l'application](/demo/demo_lbc01.gif "Demo de l'application")
